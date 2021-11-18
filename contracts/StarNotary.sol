@@ -11,7 +11,7 @@ contract StarNotary is ERC721 {
         string name;
     }
 
-    string public starName = "Udacity Star Token";
+    string public name = "Udacity Star Token";
     string public symbol = "UST";
 
     // Implement Task 1 Add a name and symbol properties
